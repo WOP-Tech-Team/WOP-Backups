@@ -1,0 +1,66 @@
+{
+    "name": "golden-abyss1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545245354,
+            "author": 8196010,
+            "stamp": 1784120126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545244710,
+            "author": 8196010,
+            "stamp": 1784117580,
+            "flags": "A",
+            "commentary": "已新增标签：_ai。 移除标签：ai。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545243521,
+            "author": 8171686,
+            "stamp": 1784113323,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545243486,
+            "author": 8171686,
+            "stamp": 1784113194,
+            "flags": "A",
+            "commentary": "已新增标签：ai。 移除标签：_ai。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545243480,
+            "author": 8171686,
+            "stamp": 1784113173,
+            "flags": "A",
+            "commentary": "已新增标签：_ai, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545243468,
+            "author": 8171686,
+            "stamp": 1784113146,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468985822,
+    "forum_thread": 18156379,
+    "tags": [
+        "_ai",
+        "原创",
+        "故事"
+    ],
+    "title": "金渊—第一章 雪落在普列谢茨克",
+    "sitemap_update": 1784120126000,
+    "votings": [],
+    "is_locked": true
+}
