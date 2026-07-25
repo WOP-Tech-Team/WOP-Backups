@@ -1,0 +1,33 @@
+{
+    "name": "bad-ending",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545415978,
+            "author": 8516280,
+            "stamp": 1784856155,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545415976,
+            "author": 8516280,
+            "stamp": 1784856137,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469027548,
+    "rating": 0,
+    "forum_thread": 18197244,
+    "tags": [
+        "原创"
+    ],
+    "title": "【坏结局世界】",
+    "sitemap_update": 1784856155000,
+    "votings": [],
+    "is_locked": false
+}
