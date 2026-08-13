@@ -1,0 +1,52 @@
+{
+    "name": "love-and-hate",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545223467,
+            "author": 8196010,
+            "stamp": 1784042770,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545223458,
+            "author": 8196010,
+            "stamp": 1784042722,
+            "flags": "A",
+            "commentary": "已新增标签：copyright, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545223445,
+            "author": 8196010,
+            "stamp": 1784042664,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468981646,
+    "rating": 2,
+    "forum_thread": 18151443,
+    "tags": [
+        "copyright",
+        "原创",
+        "故事"
+    ],
+    "title": "爱恨情仇",
+    "sitemap_update": 1784042770000,
+    "votings": [
+        [
+            9639277,
+            true
+        ],
+        [
+            8171686,
+            true
+        ]
+    ],
+    "is_locked": false
+}
