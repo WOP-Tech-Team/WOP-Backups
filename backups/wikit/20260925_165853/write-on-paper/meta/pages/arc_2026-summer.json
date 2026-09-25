@@ -1,0 +1,67 @@
+{
+    "name": "arc:2026-summer",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545848928,
+            "author": 9639277,
+            "stamp": 1786342811,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"2026-summer\" 至 \"arc:2026-summer\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545628437,
+            "author": 9639277,
+            "stamp": 1785591067,
+            "flags": "A",
+            "commentary": "已新增标签：copyright, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545628424,
+            "author": 9639277,
+            "stamp": 1785591035,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545628387,
+            "author": 9639277,
+            "stamp": 1785590967,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545628379,
+            "author": 9639277,
+            "stamp": 1785590947,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469084688,
+    "rating": 2,
+    "forum_thread": 18250150,
+    "tags": [
+        "copyright",
+        "原创"
+    ],
+    "title": "丙午之夏",
+    "sitemap_update": 1786342811000,
+    "votings": [
+        [
+            8346642,
+            true
+        ],
+        [
+            7504264,
+            true
+        ]
+    ],
+    "is_locked": true
+}

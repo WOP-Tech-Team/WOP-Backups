@@ -1,0 +1,31 @@
+{
+    "title": "【坏结局世界】",
+    "id": 18197244,
+    "description": "",
+    "last": 1786362419,
+    "lastUser": 8152715,
+    "started": 1784856161,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8693902,
+            "title": "作者帖",
+            "poster": 8516280,
+            "stamp": 1784856269,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 8953580,
+            "title": "nv",
+            "poster": 8152715,
+            "stamp": 1786362419,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}
