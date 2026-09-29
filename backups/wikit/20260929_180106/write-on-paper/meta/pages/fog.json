@@ -1,0 +1,38 @@
+{
+    "name": "fog",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546934244,
+            "author": 8457298,
+            "stamp": 1789749284,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 诗歌。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546934240,
+            "author": 8457298,
+            "stamp": 1789749271,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469342185,
+    "rating": 1,
+    "tags": [
+        "原创",
+        "诗歌"
+    ],
+    "title": "雾",
+    "sitemap_update": 1789749284000,
+    "votings": [
+        [
+            8196010,
+            true
+        ]
+    ],
+    "is_locked": false
+}
