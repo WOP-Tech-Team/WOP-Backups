@@ -1,0 +1,40 @@
+{
+    "name": "monthly-202610-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1547207414,
+            "author": 8196010,
+            "stamp": 1790819605,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"monthly-202602-11\" 至 \"monthly-202610-11\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547207407,
+            "author": 8196010,
+            "stamp": 1790819570,
+            "flags": "A",
+            "commentary": "已新增标签：wop月刊, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547207404,
+            "author": 8196010,
+            "stamp": 1790819548,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469428965,
+    "tags": [
+        "wop月刊",
+        "原创"
+    ],
+    "title": "纸上书月刊 - 2026年10月特刊",
+    "sitemap_update": 1790819605000,
+    "votings": [],
+    "is_locked": false
+}
