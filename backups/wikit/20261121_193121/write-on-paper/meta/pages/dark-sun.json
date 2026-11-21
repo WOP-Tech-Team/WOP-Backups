@@ -1,0 +1,48 @@
+{
+    "name": "dark-sun",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1548393194,
+            "author": 8325214,
+            "stamp": 1795058414,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1548393116,
+            "author": 8325214,
+            "stamp": 1795058327,
+            "flags": "A",
+            "commentary": "已新增标签：_ai, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1548393111,
+            "author": 8325214,
+            "stamp": 1795058299,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469991825,
+    "rating": 1,
+    "forum_thread": 18523883,
+    "tags": [
+        "_ai",
+        "原创",
+        "故事"
+    ],
+    "title": "黄昏已至千百年_卷一",
+    "sitemap_update": 1795058414000,
+    "votings": [
+        [
+            8196010,
+            true
+        ]
+    ],
+    "is_locked": false
+}
