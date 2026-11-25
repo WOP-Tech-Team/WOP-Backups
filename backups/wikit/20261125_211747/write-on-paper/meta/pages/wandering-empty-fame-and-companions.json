@@ -1,0 +1,33 @@
+{
+    "name": "wandering-empty-fame-and-companions",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546750640,
+            "author": 9526934,
+            "stamp": 1788795593,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 诗歌。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546750637,
+            "author": 9526934,
+            "stamp": 1788795578,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469286250,
+    "rating": 0,
+    "tags": [
+        "原创",
+        "诗歌"
+    ],
+    "title": "流浪，虚名与伙伴",
+    "sitemap_update": 1788795593000,
+    "votings": [],
+    "is_locked": false
+}

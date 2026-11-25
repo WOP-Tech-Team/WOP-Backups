@@ -1,0 +1,33 @@
+{
+    "name": "the-mask-of-corruption",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547933868,
+            "author": 7344601,
+            "stamp": 1793427909,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547933863,
+            "author": 7344601,
+            "stamp": 1793427891,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469760319,
+    "rating": 0,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "堕落的面具",
+    "sitemap_update": 1793427909000,
+    "votings": [],
+    "is_locked": false
+}
